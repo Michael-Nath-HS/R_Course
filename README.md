@@ -6,4 +6,6 @@
  
 **Lesson 2:** *Importing and Downloading Tables, Biological Databases, dim()* 
 
+**Lesson 3:** *Interrogating Data, using statistical methods such as sd(), and creating new columns* 
+
  `— Michael Nath '21`
