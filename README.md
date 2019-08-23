@@ -8,4 +8,8 @@
 
 **Lesson 3:** *Interrogating Data, using statistical methods such as sd(), and creating new columns* 
 
+**Lesson 4:** *Removing Substrings, Reordering Columns, Renaming Subsets of Data, plyr library*
+
+**Lesson 5:** *Tweaking EVERYTHING in a plot (titles, colors, texts, grids), palettes, theme()*
+
  `— Michael Nath '21`
